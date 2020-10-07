@@ -6,31 +6,31 @@ export default function Navbar() {
   return (
     <>
       <div className="info">
-        <h1 style={{ margin: 0 }}>Mark Pekala</h1>
+        <h1 style={{ margin: 0 }}>🅱️ig Chungus</h1>
         <div className="info-bar">
-          <p className="info-item">mpekala@college.harvard.edu</p>
+          <p className="info-item">🅱️chungus@🅱️ollege.🅱️arvard.🅱️du</p>
         </div>
         <div className="info-bar">
           <Link
             className="info-link"
-            to={{ pathname: "https://github.com/mpek66" }}
+            to={{ pathname: "https://example.org/" }}
             target="_blank"
           >
-            GitHub
+            example.org
           </Link>
           <Link
             className="info-link"
-            to={{ pathname: "https://www.linkedin.com/in/mark-pekala/" }}
+            to={{ pathname: "https://example.net/" }}
             target="_blank"
           >
-            LinkedIn
+            example.net
           </Link>
           <Link
             className="info-link"
-            to={{ pathname: "https://spotify.com" }}
+            to={{ pathname: "https://example.edu/" }}
             target="_blank"
           >
-            Spotify
+            example.edu
           </Link>
         </div>
       </div>

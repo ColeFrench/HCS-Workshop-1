@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import CutePic from "../../assets/bighappy.png";
+import CutePic from "../../assets/webscraper.jpg";
 
 export default function AboutScreen() {
   return (
@@ -10,9 +10,9 @@ export default function AboutScreen() {
           <img src={CutePic} className="intro-picture" />
         </div>
         <div className="intro-item">
-          <h1>Short. Inspiring. Words.</h1>
-          <h2>CS @ Harvard, 2023</h2>
-          <p>Hi! Welcome to my website!!!!!</p>
+          <h1>I am the chungus.</h1>
+          <h2>Chungus @ 🅱️arvard, 3023</h2>
+          <p>Aww man!</p>
         </div>
       </div>
     </div>

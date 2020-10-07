@@ -1,6 +1,6 @@
-## Your Name
+## 🅱️ig Chungus
 
-Welcome to my website!
+Welcome! This is my fake website to develop my React skills.
 
 ### Added Feature #1
 
