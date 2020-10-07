@@ -1,7 +1,14 @@
 .intro-background {
+  display: flex;
+  flex: 1;
+  width: 100%;
+  flex-direction: row;
 }
 
 .intro-item {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
 }
 
 .intro-item h1,
