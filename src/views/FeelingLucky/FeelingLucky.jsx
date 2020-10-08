@@ -3,7 +3,7 @@ import "./FeelingLucky.css";
 
 function Roller(props) {
   return (
-    <button className="feeling-lucky-roller" onClick={() => props.setRoll(parseInt(1 + Math.random() * 99))}>Roll me!</button>
+    <button className="feeling-lucky-roller" onClick={() => props.setRoll(parseInt(1 + Math.random() * 100))}>Roll me!</button>
   );
 }
 
