@@ -8,6 +8,4 @@ Welcome! This is my fake website to develop my React skills.
 
 ### Added Feature #2
 
-Description
-
-Screenshots
+"Feeling Zany?" page: click on a button to change the site background to a random color.

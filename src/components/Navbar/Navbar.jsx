@@ -55,6 +55,11 @@ export default function Navbar() {
             Feeling Lucky?
           </Link>
         </div>
+        <div className="nav-item">
+          <Link className="nav-link" to={{ pathname: "/feeling-zany" }}>
+            Feeling Zany?
+          </Link>
+        </div>
       </div>
     </>
   );
