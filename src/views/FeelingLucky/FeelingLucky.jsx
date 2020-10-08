@@ -13,7 +13,7 @@ function Result(props) {
   );
 }
 
-export default function ExperienceScreen() {
+export default function FeelingLuckyScreen() {
   const [roll, setRoll] = useState(1);
 
   return (
