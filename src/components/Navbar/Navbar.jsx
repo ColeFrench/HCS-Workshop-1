@@ -50,6 +50,11 @@ export default function Navbar() {
             Projects
           </Link>
         </div>
+        <div className="nav-item">
+          <Link className="nav-link" to={{ pathname: "/feeling-lucky" }}>
+            Feeling Lucky?
+          </Link>
+        </div>
       </div>
     </>
   );
